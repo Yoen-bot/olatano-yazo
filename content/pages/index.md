@@ -2,7 +2,7 @@
 title: Accueil
 has_intro: true
 intro_content: >-
-  Olatano ("Rencontre, Retrouvailles") est une page qui vise l'apprentissage de la langue Omyènè à travers des textes, des images, des vidéos et tout autre support possible.
+  Olatano ("Rencontre, Retrouvailles") est une plateforme qui vise l'apprentissage de la langue Omyènè à travers des textes, des images, des vidéos et tout autre support possible.
 intro_actions:
   - label: Learn More
     url: /about
