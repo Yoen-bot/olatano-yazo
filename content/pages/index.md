@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
     - name: 'facebook:card'
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: 'facebook:title'
       value: Stackbit Ampersand Theme
     - name: 'twitter:description'
       value: The preview of the Ampersand theme
