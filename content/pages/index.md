@@ -23,7 +23,7 @@ seo:
       value: Olatano
       keyName: property
     - name: 'og:description'
-      value: Olatano ("Rencontre, Retrouvailles") est une page qui vise l'apprentissage de la langue Omyènè à travers des textes, des images, des vidéos et tout autre support possible.
+      value: Olatano ("Rencontre, Retrouvailles") est une plaeforme qui vise l'apprentissage de l'histoire et de la langue Myènè à travers des textes, des images, des vidéos et tout autre support possible.
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
