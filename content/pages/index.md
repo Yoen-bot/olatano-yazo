@@ -6,7 +6,7 @@ intro_content: >-
 intro_actions:
   - label: En savoir plus
     url: /about
-    style: primary-blue
+    style: primary
   - label: Contact
     url: /contact
     style: secondary
