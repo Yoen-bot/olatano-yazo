@@ -32,7 +32,7 @@ seo:
     - name: 'facebook:card'
       value: summary_large_image
     - name: 'facebook:title'
-      value: Stackbit Ampersand Theme
+      value: Olatano
     - name: 'twitter:description'
       value: The preview of the Ampersand theme
     - name: 'twitter:image'
