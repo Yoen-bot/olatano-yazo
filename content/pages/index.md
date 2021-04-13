@@ -20,7 +20,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: Olatano
       keyName: property
     - name: 'og:description'
       value: The preview of the Ampersand theme
