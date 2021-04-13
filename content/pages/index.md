@@ -23,7 +23,7 @@ seo:
       value: Olatano
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: Olatano ("Rencontre, Retrouvailles") est une page qui vise l'apprentissage de la langue Omyènè à travers des textes, des images, des vidéos et tout autre support possible.
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
