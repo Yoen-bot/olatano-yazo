@@ -1,6 +1,6 @@
 ---
 title: A propos de moi
-subtitle: This is a short page about me and my work
+subtitle: Un bref résumé sur le fondateur et son travail.
 img_path: images/about.jpg
 img_alt: A man standing on a rock outside the cave
 seo:
