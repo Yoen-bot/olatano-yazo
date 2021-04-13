@@ -14,7 +14,7 @@ has_more_link: true
 more_link_text: Lire plus
 seo:
   title: Olatano
-  description: Olatano ("Rencontre, Retrouvailles") est une plaeforme qui vise l'apprentissage de la langue Omyènè à travers des textes, des images, des vidéos et tout autre support possible.
+  description: Olatano ("Rencontre, Retrouvailles") est une plaeforme qui vise l'apprentissage de l'histoire et de la langue Omyènè à travers des textes, des images, des vidéos et tout autre support possible.
   extra:
     - name: 'og:type'
       value: website
