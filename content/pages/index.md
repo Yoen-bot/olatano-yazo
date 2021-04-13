@@ -4,7 +4,7 @@ has_intro: true
 intro_content: >-
   Olatano ("Rencontre, Retrouvailles") est une plateforme qui vise l'apprentissage de la langue et de l'histoire des Myènè.
 intro_actions:
-  - label: Learn More
+  - label: En sa
     url: /about
     style: primary
   - label: Contact
