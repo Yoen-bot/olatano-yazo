@@ -33,7 +33,7 @@ seo:
       value: summary_large_image
     - name: 'facebook:title'
       value: Olatano
-    - name: 'twitter:description'
+    - name: 'facebook:description'
       value: Olatano ("Rencontre, Retrouvailles") est une plaeforme qui vise l'apprentissage de l'histoire et de la langue Myènè à travers des textes, des images, des vidéos et tout autre support possible.
     - name: 'facebook:image'
       value: images/ampersand-preview.png
