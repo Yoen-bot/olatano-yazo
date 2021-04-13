@@ -34,7 +34,7 @@ seo:
     - name: 'facebook:title'
       value: Olatano
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: Olatano ("Rencontre, Retrouvailles") est une plaeforme qui vise l'apprentissage de l'histoire et de la langue Myènè à travers des textes, des images, des vidéos et tout autre support possible.
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
